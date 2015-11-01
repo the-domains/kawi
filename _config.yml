@@ -1,0 +1,23 @@
+name: Kawi
+favicon: null
+layout_spectrum: 0.09590016026049852
+typography_spectrum: 0.3834476841147989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5745688048191369
+  lightness: 0.23116551409475505
+  saturation: 0.3657312805298716
+  rhythmicContrast: 0.8281178688630462
+purpose: []
