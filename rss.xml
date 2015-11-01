@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kawi]]></title>
+        <description><![CDATA[Kawi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 Nov 2015 16:59:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<h1>Hello World</h1>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">d7a55f07-a8b7-486e-a641-d309f8460697</guid>
+            <pubDate>Sun, 01 Nov 2015 16:58:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
