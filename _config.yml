@@ -1,7 +1,7 @@
 name: Kawi
 favicon: null
-layout_spectrum: 0.09590016026049852
-typography_spectrum: 0.3834476841147989
+layout_spectrum: 1
+typography_spectrum: 0.53498
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.5745688048191369
-  lightness: 0.23116551409475505
-  saturation: 0.3657312805298716
-  rhythmicContrast: 0.8281178688630462
+  brandColors:
+    - '#010101'
+    - '#6b6360'
+    - '#fc8d25'
+    - '#e0e0e0'
+    - '#21d261'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
